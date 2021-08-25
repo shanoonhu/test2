@@ -13,7 +13,7 @@
 	<properties>
 		<fms>3.0.3</fms>
 		<dom4j.version>1.6.1</dom4j.version>
-		<xstream.version>1.4.8</xstream.version>
+		<xstream.version>1.4.18</xstream.version>
 		<java.version>1.7</java.version>
 		<junit.version>4.11</junit.version>
 		<spring.version>4.2.6.RELEASE</spring.version>
