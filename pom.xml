@@ -16,7 +16,7 @@
 		<xstream.version>1.4.8</xstream.version>
 		<java.version>1.7</java.version>
 		<junit.version>4.11</junit.version>
-		<spring.version>4.2.6.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 		<sinosoft.framework>1.0.7</sinosoft.framework>
 		<sinosoft.eworkflow>1.0.6</sinosoft.eworkflow>
 		<sinosoft.email>1.3.2</sinosoft.email>
